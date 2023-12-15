@@ -4,14 +4,15 @@ notas = []
 for palabra in range(len(lista)):
     nota = int(input("Nota en "+ lista[palabra]+" : "))
     notas.append(nota)
-notasAprobadas = []
-asignaturasAprobadas = []
+notasSuspensas = []
+asignaturasSuspensas = []
 for i in range(len(notas)):
-    if notas[i] > 5:
-        notasAprobadas.append(notas[i])
-        asignaturasAprobadas.append(lista[i])
+    if notas[i] < 5:
+        notasSuspensas.append(notas[i])
+        asignaturasSuspensas.append(lista[i])
 
 
+print("Tienes que recuperar estas asignaturas: \n")
 
-for i in range(len(lista)):
-    print("Tienes que recuperar estas asignaturas: "+lista[i])
+for i in range(len(asignaturasSuspensas)):
+    print(asignaturasSuspensas[i] + " :" + str(notasSuspensas[i]))

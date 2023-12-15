@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136e47b8-c717-4ad1-aea0-cb21928896ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Actividad1_SGE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio9.py" afterDir="false" />
+    <list default="true" id="136e47b8-c717-4ad1-aea0-cb21928896ed" name="Changes" comment="Commit 10:14">
+      <change afterPath="$PROJECT_DIR$/ejercicio10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ZR0SZii3Tvv9xxdOaozZYIxpGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,7 +45,7 @@
     "Python.ejercicio6.executor": "Run",
     "Python.ejercicio7.executor": "Run",
     "Python.ejercicio8.executor": "Run",
-    "Python.ejercicio9.executor": "Debug",
+    "Python.ejercicio9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -210,12 +198,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702369585907</updated>
-      <workItem from="1702369622438" duration="2835000" />
+      <workItem from="1702369622438" duration="2873000" />
+      <workItem from="1702631785900" duration="1331000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit 10:14">
+      <option name="closed" value="true" />
+      <created>1702372478540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702372478540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 10:14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 10:14" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio3.coverage" NAME="ejercicio3 Coverage Results" MODIFIED="1702370149758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -225,7 +227,7 @@
     <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio4.coverage" NAME="ejercicio4 Coverage Results" MODIFIED="1702370266957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio7.coverage" NAME="ejercicio7 Coverage Results" MODIFIED="1702371419335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio1.coverage" NAME="ejercicio1 Coverage Results" MODIFIED="1702369757233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio9.coverage" NAME="ejercicio9 Coverage Results" MODIFIED="1702372326838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio9.coverage" NAME="ejercicio9 Coverage Results" MODIFIED="1702631952773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Actividad1_SGE$ejercicio5.coverage" NAME="ejercicio5 Coverage Results" MODIFIED="1702370444673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
